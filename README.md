@@ -2,4 +2,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaerish&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=chaerish&show_icons=true">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vecherish&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaerish&show_icons=true&theme=radical)
