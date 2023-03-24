@@ -1,4 +1,6 @@
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=WELCOME!%20&fontSize=90" />
+  </div>
 <div align='center'>
 <h1> C H E R I S H </h1>
 <p align="center">
