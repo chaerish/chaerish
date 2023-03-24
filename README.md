@@ -1,11 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=WELCOME!%20&fontSize=90" />
 <h1> C H E R I S H </h1>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/100480440/227413936-e7504d53-a1b1-47f1-aae0-883568437609.jpeg">
-  
-  <p> 항상 매사에 부족하지만 노력하고자 하는 사람 </p>
-  <p> 자신을 소중히 여기고자 하는 사람 </p>
-
+  <img src="https://user-images.githubusercontent.com/100480440/227413936-e7504d53-a1b1-47f1-aae0-883568437609.jpeg" width="40%" height="40%">
+  <h3>깃허브 공사중...</h3>
 </p>
 <h2> 좋아하는 것들 </h2>
 <p align="center">
