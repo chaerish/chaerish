@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=WELCOME!%20&fontSize=90" />
+<div align='center'>
 <h1> C H E R I S H </h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/100480440/227413936-e7504d53-a1b1-47f1-aae0-883568437609.jpeg" width="40%" height="40%">
@@ -15,3 +16,4 @@
 <h2> 나는 이런 것들을 한다! </h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaerish&layout=compact"><br><br>
 </p>
+</div>
