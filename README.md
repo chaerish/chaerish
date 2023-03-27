@@ -4,7 +4,7 @@
 <div align='center'>
 <h1> C H E R I S H </h1>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/100480440/227413936-e7504d53-a1b1-47f1-aae0-883568437609.jpeg" width="40%" height="40%">
+  <img src="https://i.pinimg.com/564x/73/4c/f0/734cf021e04d5f5187052943ad702398.jpg" width="40%" height="40%">
   <h3>깃허브 공사중...</h3>
 </p>
 <h2> 좋아하는 것들 </h2>
