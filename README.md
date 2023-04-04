@@ -13,8 +13,9 @@
 </p>
 <p align="center">
 <h2> </h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaerish&layout=compact"><br><br>
-
-https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats
+<span>
+<img src="https://github-readme-stats.vercel.app/api?username=chaerish&theme=onedark&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaerish&layout=compact">
+ </span>
 </p>
 </div>
