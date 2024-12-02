@@ -1,8 +1,8 @@
 <div align='center'>
-<h1> C H E R I S H </h1>
+<h1> 👋 Hello World! </h1>
 <p align="center">
-  <img src="https://i.pinimg.com/564x/73/4c/f0/734cf021e04d5f5187052943ad702398.jpg" width="40%" height="40%">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=FA991C&height=300&section=header&text=Chaerish%20&fontSize=90" />
+  
 <p align="center">
 <span>
 <img src="https://github-readme-stats.vercel.app/api?username=chaerish&theme=onedark&show_icons=true">
