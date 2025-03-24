@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-#### 🌱 몰입하는 것을 좋아하고, 무지를 탐구해나가는 백엔드 개발자입니다!
+### 🌱 몰입하는 것을 좋아하고, 무지를 탐구해나가는 백엔드 개발자입니다!
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cy8432)](https://solved.ac/cy8432/)
 ### 🛠️ Technologies & Tools I Work With
