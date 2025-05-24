@@ -1,5 +1,5 @@
 <div align='center'>
-<h1> Hello World! </h1>
+<h1> ✨ Hello World! </h1>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=wave&color=FA991C&height=300&section=header&text=Chaerish%20&fontSize=90" />
 </p>
