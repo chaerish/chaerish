@@ -58,7 +58,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
----
 
 ## 🏆 GitHub Stats
 
@@ -67,7 +66,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaerish&layout=compact" height="180px"/>
 </div>
 
----
 
 ## 📬 Contact
 
