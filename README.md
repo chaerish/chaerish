@@ -24,7 +24,7 @@
 |----------|-----------|--------|-------|
 | **SQLD (SQL 개발자)** | 한국데이터산업진흥원 | 2024.04 |  |
 | **정보처리기사** | 과학기술정보통신부 | 2024.12 |  |
-| **AWS Certified Solutions Architect – Associate** | Amazon Web Services | 2025.05 | ![AWS](https://github.com/user-attachments/assets/2e3a1ed5-a30c-4055-b97a-adeffa3c863a) |
+| **AWS Certified Solutions Architect – Associate** | Amazon Web Services | 2025.05 | <img src="https://github.com/user-attachments/assets/2e3a1ed5-a30c-4055-b97a-adeffa3c863a" width="60px"/> |
 
 
 
