@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=FA991C&height=300&section=header&text=Chaerish&fontSize=90" />
 <h1>🙌 Hello, World!</h1>
-<h3>탐구를 멈추지 않고, 기술로 가치를 구현하는 백엔드 개발자입니다.</h3>
+<h3> 안녕하세요! 탐구를 멈추지 않고, 기술로 가치를 구현하는 백엔드 개발자입니다.</h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cy8432)](https://solved.ac/cy8432/)
   
