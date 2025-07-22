@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=FA991C&height=300&section=header&text=Chaerish&fontSize=90" />
 <h1>🙌 Hello, World!</h1>
-<h3> 안녕하세요! 탐구를 멈추지 않고, 기술로 가치를 구현하는 백엔드 개발자입니다.</h3>
+<h3> 책임감과 함께 성장하는 자세를 소중히 여기는 소프트웨어 엔지니어 김채연입니다. </h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cy8432)](https://solved.ac/cy8432/)
   
